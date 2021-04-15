@@ -1,0 +1,33 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 25px;
+    background-color: whitesmoke;
+}
+h3, h4{
+    text-transform: uppercase;
+}
+
+.title {
+    border-top: 1px solid gray;
+}
+
+div.right{
+    padding-left: 30%;
+}
+
+.right p span{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.head{
+    font-weight: bold;
+}
+
+.work .fun{
+    padding-left: 20%;
+}
+
+span{
+    float: right;
+}
